@@ -1,4 +1,0 @@
-This program must perform three different tasks in high precision
-● The first task is to count the vowels in a string. For our propose the letter ‘y’ will always be a vowel. 
-● The second task is to print the Nth Perfect Power number. Perfect Power numbers are defined in https://en.wikipedia.org/wiki/Perfect_power 
-● The last task is to print the Nth lazy caterer number. lazy caterer numbers are defined in https://en.wikipedia.org/wiki/Lazy_caterer%27s_sequence
